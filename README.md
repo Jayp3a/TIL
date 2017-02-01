@@ -23,6 +23,7 @@ In the example code we select only 200 records because we later sampled multiple
 + eliminate duplicate records by keeping only one record per provider ID (specifically, the record which contains a provider "star rating")
 + select only providers which have a 4- or 5-star rating
 + select a random sample of 200, with 100 records selected from 4-star providers and 100 selected from 5-star providers
++ save the sample records as a .CSV file
 
 
 
